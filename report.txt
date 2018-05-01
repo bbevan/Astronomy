@@ -1,0 +1,1032 @@
+/home/brandon/Documents/a/S20120222S0039.fits
+Date:		2012-02-22
+Filter:		g_G0325
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/S20120222S0035.fits
+Date:		2012-02-22
+Filter:		g_G0325
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/mrgS20120222S0035_add.fits
+Date:		2012-02-22T14:45:17
+Filter:		g_G0325
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/S20120222S0036.fits
+Date:		2012-02-22
+Filter:		g_G0325
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/S20120222S0038.fits
+Date:		2012-02-22
+Filter:		g_G0325
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/S20120222S0037.fits
+Date:		2012-02-22
+Filter:		g_G0325
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/I/S20120528S0017.fits
+Date:		2012-05-28
+Filter:		i_G0327
+Object:		PRC B-14
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/I/S20120528S0021.fits
+Date:		2012-05-28
+Filter:		i_G0327
+Object:		PRC B-14
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/I/S20120528S0078.fits
+Date:		2012-05-28
+Filter:		i_G0327
+Object:		PRC B22 (AM2329-410)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/I/S20120528S0079.fits
+Date:		2012-05-28
+Filter:		i_G0327
+Object:		PRC B22 (AM2329-410)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/I/S20120528S0077.fits
+Date:		2012-05-28
+Filter:		i_G0327
+Object:		PRC B22 (AM2329-410)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/I/S20120528S0020.fits
+Date:		2012-05-28
+Filter:		i_G0327
+Object:		PRC B-14
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/I/S20120528S0016.fits
+Date:		2012-05-28
+Filter:		i_G0327
+Object:		PRC B-14
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/I/S20120528S0076.fits
+Date:		2012-05-28
+Filter:		i_G0327
+Object:		PRC B22 (AM2329-410)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/I/S20120528S0019.fits
+Date:		2012-05-28
+Filter:		i_G0327
+Object:		PRC B-14
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/I/S20120528S0018.fits
+Date:		2012-05-28
+Filter:		i_G0327
+Object:		PRC B-14
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/I/S20120528S0080.fits
+Date:		2012-05-28
+Filter:		i_G0327
+Object:		PRC B22 (AM2329-410)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/I/S20120528S0022.fits
+Date:		2012-05-28
+Filter:		i_G0327
+Object:		PRC B-14
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/I/S20120528S0075.fits
+Date:		2012-05-28
+Filter:		i_G0327
+Object:		PRC B22 (AM2329-410)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/G/S20120528S0010.fits
+Date:		2012-05-28
+Filter:		g_G0325
+Object:		PRC B-14
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/G/S20120528S0008.fits
+Date:		2012-05-28
+Filter:		g_G0325
+Object:		PRC B-14
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/G/S20120528S0009.fits
+Date:		2012-05-28
+Filter:		g_G0325
+Object:		PRC B-14
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/G/S20120528S0006.fits
+Date:		2012-05-28
+Filter:		g_G0325
+Object:		PRC B-14
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/G/S20120528S0068.fits
+Date:		2012-05-28
+Filter:		g_G0325
+Object:		PRC B22 (AM2329-410)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/G/S20120528S0005.fits
+Date:		2012-05-28
+Filter:		g_G0325
+Object:		PRC B-14
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/G/S20120528S0069.fits
+Date:		2012-05-28
+Filter:		g_G0325
+Object:		PRC B22 (AM2329-410)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/G/S20120528S0066.fits
+Date:		2012-05-28
+Filter:		g_G0325
+Object:		PRC B22 (AM2329-410)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/G/S20120528S0070.fits
+Date:		2012-05-28
+Filter:		g_G0325
+Object:		PRC B22 (AM2329-410)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/G/S20120528S0007.fits
+Date:		2012-05-28
+Filter:		g_G0325
+Object:		PRC B-14
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/G/S20120528S0067.fits
+Date:		2012-05-28
+Filter:		g_G0325
+Object:		PRC B22 (AM2329-410)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/R/S20120528S0013.fits
+Date:		2012-05-28
+Filter:		r_G0326
+Object:		PRC B-14
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/R/S20120528S0074.fits
+Date:		2012-05-28
+Filter:		r_G0326
+Object:		PRC B22 (AM2329-410)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/R/S20120528S0071.fits
+Date:		2012-05-28
+Filter:		r_G0326
+Object:		PRC B22 (AM2329-410)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/R/S20120528S0073.fits
+Date:		2012-05-28
+Filter:		r_G0326
+Object:		PRC B22 (AM2329-410)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/R/S20120528S0072.fits
+Date:		2012-05-28
+Filter:		r_G0326
+Object:		PRC B22 (AM2329-410)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/R/S20120528S0011.fits
+Date:		2012-05-28
+Filter:		r_G0326
+Object:		PRC B-14
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/R/S20120528S0012.fits
+Date:		2012-05-28
+Filter:		r_G0326
+Object:		PRC B-14
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/R/S20120528S0014.fits
+Date:		2012-05-28
+Filter:		r_G0326
+Object:		PRC B-14
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-28/R/S20120528S0015.fits
+Date:		2012-05-28
+Filter:		r_G0326
+Object:		PRC B-14
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/c/S20120222S0039.fits
+Date:		2012-02-22
+Filter:		g_G0325
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/c/S20120222S0035.fits
+Date:		2012-02-22
+Filter:		g_G0325
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/c/S20120222S0036.fits
+Date:		2012-02-22
+Filter:		g_G0325
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/c/S20120222S0038.fits
+Date:		2012-02-22
+Filter:		g_G0325
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/c/S20120222S0037.fits
+Date:		2012-02-22
+Filter:		g_G0325
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/d/S20120222S0040.fits
+Date:		2012-02-22
+Filter:		g_G0325
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-20/I/S20120520S0065.fits
+Date:		2012-05-20
+Filter:		i_G0327
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-20/I/S20120520S0068.fits
+Date:		2012-05-20
+Filter:		i_G0327
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-20/I/S20120520S0064.fits
+Date:		2012-05-20
+Filter:		i_G0327
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-20/I/S20120520S0066.fits
+Date:		2012-05-20
+Filter:		i_G0327
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-20/I/S20120520S0069.fits
+Date:		2012-05-20
+Filter:		i_G0327
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-20/I/S20120520S0067.fits
+Date:		2012-05-20
+Filter:		i_G0327
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-20/G/S20120520S0054.fits
+Date:		2012-05-20
+Filter:		g_G0325
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-20/G/S20120520S0058.fits
+Date:		2012-05-20
+Filter:		g_G0325
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-20/G/S20120520S0056.fits
+Date:		2012-05-20
+Filter:		g_G0325
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-20/G/S20120520S0055.fits
+Date:		2012-05-20
+Filter:		g_G0325
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-20/G/S20120520S0059.fits
+Date:		2012-05-20
+Filter:		g_G0325
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-20/G/S20120520S0057.fits
+Date:		2012-05-20
+Filter:		g_G0325
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-20/R/S20120520S0060.fits
+Date:		2012-05-20
+Filter:		r_G0326
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-20/R/S20120520S0061.fits
+Date:		2012-05-20
+Filter:		r_G0326
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-20/R/S20120520S0063.fits
+Date:		2012-05-20
+Filter:		r_G0326
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-05-20/R/S20120520S0062.fits
+Date:		2012-05-20
+Filter:		r_G0326
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-19/G/S20120319S0148.fits
+Date:		2012-03-19
+Filter:		g_G0325
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-19/G/S20120319S0151.fits
+Date:		2012-03-19
+Filter:		g_G0325
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-19/G/S20120319S0150.fits
+Date:		2012-03-19
+Filter:		g_G0325
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-19/G/S20120319S0152.fits
+Date:		2012-03-19
+Filter:		g_G0325
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-19/G/S20120319S0149.fits
+Date:		2012-03-19
+Filter:		g_G0325
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-19/G/S20120319S0153.fits
+Date:		2012-03-19
+Filter:		g_G0325
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-02-25/I/S20120225S0057.fits
+Date:		2012-02-25
+Filter:		i_G0327
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-02-25/I/S20120225S0058.fits
+Date:		2012-02-25
+Filter:		i_G0327
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-02-25/I/S20120225S0059.fits
+Date:		2012-02-25
+Filter:		i_G0327
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-02-25/R/S20120225S0055.fits
+Date:		2012-02-25
+Filter:		r_G0326
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-02-25/R/S20120225S0054.fits
+Date:		2012-02-25
+Filter:		r_G0326
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-02-25/R/S20120225S0056.fits
+Date:		2012-02-25
+Filter:		r_G0326
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-02-25/R/S20120225S0053.fits
+Date:		2012-02-25
+Filter:		r_G0326
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-30/I/S20120330S0264.fits
+Date:		2012-03-30
+Filter:		i_G0327
+Object:		PRC B-13
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-30/I/S20120330S0265.fits
+Date:		2012-03-30
+Filter:		i_G0327
+Object:		PRC B-13
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-30/I/S20120330S0266.fits
+Date:		2012-03-30
+Filter:		i_G0327
+Object:		PRC B-13
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-30/I/S20120330S0268.fits
+Date:		2012-03-30
+Filter:		i_G0327
+Object:		PRC B-13
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-30/I/S20120330S0267.fits
+Date:		2012-03-30
+Filter:		i_G0327
+Object:		PRC B-13
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-30/I/S20120330S0263.fits
+Date:		2012-03-30
+Filter:		i_G0327
+Object:		PRC B-13
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-30/G/S20120330S0258.fits
+Date:		2012-03-30
+Filter:		g_G0325
+Object:		PRC B-13
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-30/G/S20120330S0257.fits
+Date:		2012-03-30
+Filter:		g_G0325
+Object:		PRC B-13
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-30/R/S20120330S0259.fits
+Date:		2012-03-30
+Filter:		r_G0326
+Object:		PRC B-13
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-30/R/S20120330S0260.fits
+Date:		2012-03-30
+Filter:		r_G0326
+Object:		PRC B-13
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-30/R/S20120330S0261.fits
+Date:		2012-03-30
+Filter:		r_G0326
+Object:		PRC B-13
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-30/R/S20120330S0262.fits
+Date:		2012-03-30
+Filter:		r_G0326
+Object:		PRC B-13
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-02-27/I/S20120227S0041.fits
+Date:		2012-02-27
+Filter:		i_G0327
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-02-27/I/S20120227S0043.fits
+Date:		2012-02-27
+Filter:		i_G0327
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-02-27/I/S20120227S0042.fits
+Date:		2012-02-27
+Filter:		i_G0327
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/b/mrgS20120222S0035_add.fits
+Date:		2012-02-22T14:45:17
+Filter:		g_G0325
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-18/G/S20120318S0029.fits
+Date:		2012-03-18
+Filter:		g_G0325
+Object:		PRC B-13
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-18/G/S20120318S0032.fits
+Date:		2012-03-18
+Filter:		g_G0325
+Object:		PRC B-13
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-18/G/S20120318S0031.fits
+Date:		2012-03-18
+Filter:		g_G0325
+Object:		PRC B-13
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-18/G/S20120318S0030.fits
+Date:		2012-03-18
+Filter:		g_G0325
+Object:		PRC B-13
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-02-22/G/S20120222S0039.fits
+Date:		2012-02-22
+Filter:		g_G0325
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-02-22/G/S20120222S0040.fits
+Date:		2012-02-22
+Filter:		g_G0325
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-02-22/G/S20120222S0035.fits
+Date:		2012-02-22
+Filter:		g_G0325
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-02-22/G/S20120222S0036.fits
+Date:		2012-02-22
+Filter:		g_G0325
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-02-22/G/S20120222S0038.fits
+Date:		2012-02-22
+Filter:		g_G0325
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-02-22/G/S20120222S0037.fits
+Date:		2012-02-22
+Filter:		g_G0325
+Object:		PRC B12 (PGC35214)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-23/G/S20120323S0085.fits
+Date:		2012-03-23
+Filter:		g_G0325
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-23/G/S20120323S0088.fits
+Date:		2012-03-23
+Filter:		g_G0325
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-23/G/S20120323S0090.fits
+Date:		2012-03-23
+Filter:		g_G0325
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-23/G/S20120323S0087.fits
+Date:		2012-03-23
+Filter:		g_G0325
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-23/G/S20120323S0084.fits
+Date:		2012-03-23
+Filter:		g_G0325
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-23/G/S20120323S0089.fits
+Date:		2012-03-23
+Filter:		g_G0325
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-23/G/S20120323S0086.fits
+Date:		2012-03-23
+Filter:		g_G0325
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-24/I/S20120324S0083.fits
+Date:		2012-03-24
+Filter:		i_G0327
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-24/I/S20120324S0081.fits
+Date:		2012-03-24
+Filter:		i_G0327
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-24/I/S20120324S0082.fits
+Date:		2012-03-24
+Filter:		i_G0327
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-24/I/S20120324S0079.fits
+Date:		2012-03-24
+Filter:		i_G0327
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-24/I/S20120324S0080.fits
+Date:		2012-03-24
+Filter:		i_G0327
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-24/I/S20120324S0086.fits
+Date:		2012-03-24
+Filter:		i_G0327
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-24/I/S20120324S0085.fits
+Date:		2012-03-24
+Filter:		i_G0327
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-24/I/S20120324S0084.fits
+Date:		2012-03-24
+Filter:		i_G0327
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-24/G/S20120324S0072.fits
+Date:		2012-03-24
+Filter:		g_G0325
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-24/R/S20120324S0076.fits
+Date:		2012-03-24
+Filter:		r_G0326
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-24/R/S20120324S0074.fits
+Date:		2012-03-24
+Filter:		r_G0326
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-24/R/S20120324S0078.fits
+Date:		2012-03-24
+Filter:		r_G0326
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-24/R/S20120324S0075.fits
+Date:		2012-03-24
+Filter:		r_G0326
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-24/R/S20120324S0077.fits
+Date:		2012-03-24
+Filter:		r_G0326
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-24/R/S20120324S0073.fits
+Date:		2012-03-24
+Filter:		r_G0326
+Object:		PRC B16 (NGC 5122)
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-29/G/S20120329S0417.fits
+Date:		2012-03-29
+Filter:		g_G0325
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-29/G/S20120329S0412.fits
+Date:		2012-03-29
+Filter:		g_G0325
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-29/G/S20120329S0414.fits
+Date:		2012-03-29
+Filter:		g_G0325
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-29/G/S20120329S0416.fits
+Date:		2012-03-29
+Filter:		g_G0325
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-29/G/S20120329S0415.fits
+Date:		2012-03-29
+Filter:		g_G0325
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-29/G/S20120329S0413.fits
+Date:		2012-03-29
+Filter:		g_G0325
+Object:		PRC B-18
+Binning:	1 1
+
+
+
+/home/brandon/Documents/a/2012-03-29/R/S20120329S0418.fits
+Date:		2012-03-29
+Filter:		r_G0326
+Object:		PRC B-18
+Binning:	1 1
+
+
+
