@@ -1,6 +1,7 @@
 import os
 from astropy.io import fits
 import fnmatch
+from pathlib import Path
 
 a = os.walk('/home/brandon/Documents/a')
 
@@ -20,7 +21,28 @@ def report():
                     print("\n\n")
                     hdul.close()
 
-#run report
-report()
+
+# Return a list of fits files in all subdirectories
+
+def fitslist():
+    p = Path('.') #work in current directory
+
+    #[x for x in p.iterdir() if x.is_dir()]
+
+    return list(p.glob('**/*.fits'))
+
+# Print the fits list
+def fitsprint(list):
+    
+    for x in list:
+        print x
+
+#end
+
+
+
+#Main Section for testing.
+a = fitslist()
+fitsprint(a)
 
 
