@@ -30,6 +30,7 @@ def fitslist():
     #[x for x in p.iterdir() if x.is_dir()]
 
     return list(p.glob('**/*.fits'))
+#end
 
 # Print the fits list
 def fitsprint(list):
@@ -39,10 +40,34 @@ def fitsprint(list):
 
 #end
 
+# Return a list containing a fits filename and certain header info
+def limheaderinfo(fitsfile):
+    hdul = fits.open(fitsfile)
+
+    a = [hdul[0].header['DATE'], hdul[0].header['FILTER2'], hdul[0].header['OBJECT'], hdul[1].header['CCDSUM']]
+
+    hdul.close()
+
+    return a
+
+    
+
+#end
+
+# Print out header info for all fits files in a tree
+def printlimheaderinfo():
+    
+    for x in fitslist():
+        print x
+        for y in limheaderinfo(x):
+            print y
+        print("\n")
+
+#end
 
 
 #Main Section for testing.
-a = fitslist()
-fitsprint(a)
+
+printlimheaderinfo()
 
 
